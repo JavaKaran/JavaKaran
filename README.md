@@ -9,7 +9,7 @@
 - 🌱 Learning React Redux at the moment
 </p>
 <p align='center'>
-- 👯 I’m looking to collaborate on MERN & Blockchain (especially Solidity) projects
+- 👯 Open to collaborate on MERN & Blockchain (especially Solidity) projects
 </p>
 
 <p align='center'>
