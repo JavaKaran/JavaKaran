@@ -6,7 +6,7 @@
 - 🔭 Currently working on MERN stack projects
 </p>
 <p align='center'>
-- 🌱 Learning React Redux at the moment
+- 🌱 Learning Graphql and microservices at the moment
 </p>
 <p align='center'>
 - 👯 Open to collaborate on MERN & Blockchain (especially Solidity) projects
