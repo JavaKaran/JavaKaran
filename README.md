@@ -6,10 +6,10 @@
 - 🔭 Currently working on MERN stack projects
 </p>
 <p align='center'>
-- 🌱 Learning Graphql and microservices at the moment
+- 🌱 Learning Graphql and Typescript at the moment
 </p>
 <p align='center'>
-- 👯 Open to collaborate on MERN & Blockchain (especially Solidity) projects
+- 👯 Open to collaborate on MERN projects
 </p>
 
 <p align='center'>
