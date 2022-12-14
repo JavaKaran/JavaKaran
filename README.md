@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-- 🔭 Currently working on MERN stack projects
+- 🔭 Currently working as a Frontend Developer
 </p>
 <p align='center'>
 - 🌱 Learning Graphql and Typescript at the moment
