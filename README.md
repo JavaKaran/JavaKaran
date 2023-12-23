@@ -6,10 +6,10 @@
 - 🔭 Currently working as a Frontend Developer
 </p>
 <p align='center'>
-- 🌱 Learning Graphql and Typescript at the moment
+- 🌱 Learning React Native and AWS at the moment
 </p>
 <p align='center'>
-- 👯 Open to collaborate on MERN projects
+- 👯 Open to collaborate on MERN and React Native projects
 </p>
 
 <p align='center'>
