@@ -5,11 +5,11 @@
 <p align='center'>
 - 🔭 Currently working as a Frontend Developer
 </p>
+<!-- <p align='center'>
+- 🌱 Learning AWS at the moment
+</p> -->
 <p align='center'>
-- 🌱 Learning React Native and AWS at the moment
-</p>
-<p align='center'>
-- 👯 Open to collaborate on MERN and React Native projects
+- 👯 Open to collaborate
 </p>
 
 <p align='center'>
