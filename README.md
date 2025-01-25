@@ -9,7 +9,7 @@
 - 🌱 Learning AWS at the moment
 </p> -->
 <p align='center'>
-- 👯 Open to collaborate
+- 👨🏻‍💻 Open to collaborate
 </p>
 
 <p align='center'>
