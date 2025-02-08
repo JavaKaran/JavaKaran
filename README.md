@@ -3,17 +3,19 @@
 </h1>
 
 <p align='center'>
-- 🔭 Currently working as a Frontend Developer
+🚀  Frontend Developer | Exploring Cloud & AI 
 </p>
 <!-- <p align='center'>
-- 🌱 Learning AWS at the moment
+- 🌱 Exploring Cloud and AI
 </p> -->
 <p align='center'>
-- 👨🏻‍💻 Open to collaborate
+🤝  Open to collaborate on exciting projects
 </p>
 
 <p align='center'>
-  
+  <a href="https://karan-sharma.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/karansharma346/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -27,5 +29,5 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:workinfo.karan@gmail.com'>workinfo.karan@gmail.com</a>
+  📫 Reach me at: <a href='mailto:workinfo.karan@gmail.com'>workinfo.karan@gmail.com</a>
 </p>
